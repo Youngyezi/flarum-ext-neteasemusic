@@ -2,7 +2,11 @@
 网易云音乐内嵌Flarum 插件
 
 
+# 安装
 
+```
+composer require youngyezi/flarum-ext-neteasemusic
+```
 
 
 开发文档参考:
