@@ -1,5 +1,5 @@
 <?php 
-namespace Flarum\MediaembedCn;
+namespace Flarum\NeteaseMusic;
 
 use Flarum\Event\ConfigureFormatter;
 use Illuminate\Events\Dispatcher;
