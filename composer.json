@@ -1,0 +1,34 @@
+{
+    "name": "flarum/flarum-ext-mediaembed-cn",
+    "description": "自动将第三方网站的媒体（视频、音频等）嵌入到 Flarum 中.",
+    "type": "flarum-extension",
+    "keywords": ["embed","youku","media","ku6","tudou"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "youngyezi"
+        }
+    ],
+    "require": {
+        "flarum/core": "^0.1.0-beta.5",
+        "s9e/flarum-ext-mediaembed": "^0.3.2"
+    },
+    "autoload": {
+        "psr-4": {
+            "Flarum\\MediaembedCn\\": "src/"
+        }
+    },
+    "extra": {
+        "branch-alias": {
+            "dev-master": "0.1.x-dev"
+        },
+        "flarum-extension": {
+            "title": "Chinese Mediaembed",
+            "icon": {
+                "name": "youku-play",
+                "backgroundColor": "#cc181e",
+                "color": "#fff"
+            }
+        }
+    }
+}
