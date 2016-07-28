@@ -1,5 +1,5 @@
 {
-    "name": "flarum/flarum-ext-neteasemusic",
+    "name": "youngyezi/flarum-ext-neteasemusic",
     "description": "网易云音乐内嵌Flarum 中.",
     "type": "flarum-extension",
     "keywords": ["neteasemusic"],
@@ -15,7 +15,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Flarum\\NeteaseMusic\\": "src/"
+            "Youngyezi\\NeteaseMusic\\": "src/"
         }
     },
     "extra": {
