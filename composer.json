@@ -1,5 +1,5 @@
 {
-    "name": "flarum/flarum-ext-mediaembed-cn",
+    "name": "flarum/flarum-ext-neteasemusic",
     "description": "自动将第三方网站的媒体（视频、音频等）嵌入到 Flarum 中.",
     "type": "flarum-extension",
     "keywords": ["embed","youku","media","ku6","tudou"],
