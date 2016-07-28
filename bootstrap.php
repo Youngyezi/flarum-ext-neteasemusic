@@ -1,5 +1,5 @@
 <?php 
-namespace Flarum\NeteaseMusic;
+namespace Youngyezi\NeteaseMusic;
 
 use Flarum\Event\ConfigureFormatter;
 use Illuminate\Events\Dispatcher;
