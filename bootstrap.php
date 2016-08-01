@@ -18,7 +18,7 @@ function subscribe(Dispatcher $events)
                     'iframe'  => [
                         'width'  => 330,
                         'height' => 86,
-                        'src'    => 'http://music.163.com/outchain/player?type=2&id={@id}&auto=0&height=66'
+                        'src'    => '//music.163.com/outchain/player?type=2&id={@id}&auto=0&height=66'
                     ]
                 ]
             );
